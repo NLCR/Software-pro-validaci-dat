@@ -1,83 +1,146 @@
-NAME
-    marc-validator - Tool to validate records in MARC file.
+# MARC Validator
 
-SYNOPSIS
-     marc-validator [-d] [-h] [-i id] [-l] [-o output_file] [-p] [-v] [--version] marc_xml_file..
+**MARC Validator** is a tool for validating bibliographic data in the **MARC 21** format.  
+It focuses on validating coded MARC data fields — particularly the *leader*, fields *008*, *040*, *020*, and date-related fields (*008*, *260*, *264*).  
+The tool takes into account cataloguing rules such as **RDA** and **AACR2**.
 
-DESCRIPTION
-    Tool to validate dataset from MARC record collections.
+Its main goal is to identify errors that could cause issues during the transition to **Linked Data**, expected to become the standard for bibliographic data in the Czech Republic from **2028 onwards**.
 
-    It supports MARC XML files now.
+***
 
-ARGUMENTS
-    *       "-d"
+## Features
 
-            Debug mode.
+- Validation of MARC 21 bibliographic data in MARCXML format.
+- Detection of structural and logical errors in coded fields.
+- Output as JSON or a human-readable text report.
+- Compatible with cataloguing standards (RDA, AACR2).
+- Extensible plugin-based architecture.
+- Command-line interface for integration into workflows.
 
-    *       "-h"
+***
 
-            Print help.
+## Command-Line Tools
 
-    *       "-i id"
+### `marc-validator`
 
-            Record identifier defined by MARC field/subfield. Example value
-            is '015a' for national library id.
+A CLI tool for validating MARC records.  
+Implemented in the [App::MARC::Validator](https://github.com/michal-josef-spacek/App-MARC-Validator) project,  
+with validation logic in [MARC::Validator](https://github.com/michal-josef-spacek/MARC-Validator).
 
-            Default value is '001'.
+#### Syntax
 
-    *       "-l"
+```
+marc-validator [-d] [-h] [-i id] [-l] [-o output_file] [-p] [-v] [--version] marc_xml_file..
+```
 
-            Print list of plugins.
+#### Arguments
 
-    *       "-o output_file"
+| Option | Description |
+|--------|--------------|
+| `-d` | Debug mode. |
+| `-h` | Print help. |
+| `-i id` | Record identifier defined by MARC field/subfield (default: `001`, e.g. `015a`). |
+| `-l` | Print list of available plugins. |
+| `-o output_file` | Save results to file (default: none). |
+| `-p` | Pretty-print JSON output. |
+| `-v` | Verbose mode. |
+| `--version` | Print tool version. |
+| `marc_xml_file..` | Input MARC XML file(s). |
 
-            Output file to save result.
+#### Example
 
-            Default value is undef.
+```
+marc-validator records.xml
+```
 
-    *       "-p"
+#### Output
 
-            Pretty print JSON output.
+- JSON file written to standard output.
+- For each plugin, a list of detected errors is included.
 
-    *       "-v"
+***
 
-            Verbose mode.
+### `marc-validator-report`
 
-    *       "--version"
+A CLI tool for generating human-readable validation reports.  
+Repository: [App::MARC::Validator::Report](https://github.com/michal-josef-spacek/App-MARC-Validator-Report)  
+CPAN: [App::MARC::Validator::Report](https://metacpan.org/dist/App-MARC-Validator-Report)
 
-            Print version of script.
+***
 
-    *       "marc_xml_file.."
+## Installation
 
-            MARC XML file name(s).
+Both tools are implemented in **Perl** and can be installed from [CPAN](https://metacpan.org) or via **Docker**.
 
-EXAMPLE
-     marc-validator __MARC.xml__
+### From CPAN
 
-SEE ALSO
-    marc-validator-report
-        Tool to process MARC validation report.
+1. Install Perl interpreter:  
+   - Debian: `apt-get install perl`  
+   - Fedora: `dnf install perl-interpreter`
+2. Install CPAN package manager:  
+   - e.g. `dnf install perl-App-cpanminus`
+3. Install the tools:  
+   ```
+   cpanm App::MARC::Validator
+   cpanm App::MARC::Validator::Report
+   ```
+4. Check help:  
+   ```
+   marc-validator -h
+   marc-validator-report -h
+   ```
 
-REPOSITORY
-    <https://github.com/michal-josef-spacek/App-MARC-Validator>
+### Using Docker
 
-AUTHOR
-    Michal Josef Špaček <mailto:skim@cpan.org>
+#### MARC Validator
 
-    <http://skim.cz>
+Image: [michaljosefspacek/marc-validator](https://hub.docker.com/r/michaljosefspacek/marc-validator)  
+Pull and run:
 
-LICENSE AND COPYRIGHT
-    © 2025 Michal Josef Špaček
+```
+docker pull michaljosefspacek/marc-validator:0.04
+```
 
-    BSD 2-Clause License
+#### MARC Validator Report
 
-ACKNOWLEDGEMENTS
-    Development of this software has been made possible by institutional
-    support for the long-term strategic development of the National Library
-    of the Czech Republic as a research organization provided by the
-    Ministry of Culture of the Czech Republic (DKRVO 2024–2028), Area 11:
-    Linked Open Data.
+Image: [michaljosefspacek/marc-validator-report](https://hub.docker.com/r/michaljosefspacek/marc-validator-report)  
+Pull and run:
 
-VERSION
-    0.05
+```
+docker pull michaljosefspacek/marc-validator-report:0.01
+```
 
+***
+
+## Test Data
+
+Example datasets:  
+[https://github.com/michal-josef-spacek/marc_validator_examples](https://github.com/michal-josef-spacek/marc_validator_examples)
+
+***
+
+## Repositories
+
+- [App::MARC::Validator](https://github.com/michal-josef-spacek/App-MARC-Validator)
+- [MARC::Validator](https://github.com/michal-josef-spacek/MARC-Validator)
+- [MARC::Leader](https://github.com/michal-josef-spacek/MARC-Leader)
+- [MARC::Leader::Utils](https://github.com/michal-josef-spacek/MARC-Leader-Utils)
+- [MARC::Field008](https://github.com/michal-josef-spacek/MARC-Field008)
+- [Data::MARC::Leader](https://github.com/michal-josef-spacek/Data-MARC-Leader)
+- [Data::MARC::Field008](https://github.com/michal-josef-spacek/Data-MARC-Field008)
+
+***
+
+## License and Credits
+
+© 2025 [Michal Josef Špaček](http://skim.cz) (<mailto:skim@cpan.org>)  
+Licensed under the **BSD 2-Clause License**.
+
+Development of this software has been supported by the **long-term strategic development of the National Library of the Czech Republic as a research organization**,  
+funded by the **Ministry of Culture of the Czech Republic (DKRVO 2024–2028, Area 11: Linked Open Data)**.
+
+***
+
+## Version
+
+**0.05**
