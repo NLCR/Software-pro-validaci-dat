@@ -133,7 +133,7 @@ Example datasets:
 
 ## License and Credits
 
-© 2025 [Michal Josef Špaček](http://skim.cz) (<mailto:skim@cpan.org>)  
+© 2025-2026 [Michal Josef Špaček](http://skim.cz) (<mailto:michal.josef.spacek@gmail.com>)
 Licensed under the **BSD 2-Clause License**.
 
 Development of this software has been supported by the **long-term strategic development of the National Library of the Czech Republic as a research organization**,  
