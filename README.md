@@ -74,17 +74,18 @@ Both tools are implemented in **Perl** and can be installed from [CPAN](https://
 
 ### From CPAN
 
-1. Install Perl interpreter:  
-   - Debian: `apt-get install perl`  
+1. Install Perl interpreter:
+   - Debian: `apt-get install perl`
    - Fedora: `dnf install perl-interpreter`
-2. Install CPAN package manager:  
-   - e.g. `dnf install perl-App-cpanminus`
-3. Install the tools:  
+2. Install CPAN package manager:
+   - Debian: `apt-get install cpanminus`
+   - Fedora: `dnf install perl-App-cpanminus`
+3. Install the tools:
    ```
    cpanm App::MARC::Validator
    cpanm App::MARC::Validator::Report
    ```
-4. Check help:  
+4. Check help:
    ```
    marc-validator -h
    marc-validator-report -h
