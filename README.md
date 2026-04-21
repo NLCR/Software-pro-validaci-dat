@@ -140,7 +140,3 @@ Development of this software has been supported by the **long-term strategic dev
 funded by the **Ministry of Culture of the Czech Republic (DKRVO 2024–2028, Area 11: Linked Open Data)**.
 
 ***
-
-## Version
-
-**0.05**
