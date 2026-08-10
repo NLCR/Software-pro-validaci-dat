@@ -74,17 +74,18 @@ Both tools are implemented in **Perl** and can be installed from [CPAN](https://
 
 ### From CPAN
 
-1. Install Perl interpreter:  
-   - Debian: `apt-get install perl`  
+1. Install Perl interpreter:
+   - Debian: `apt-get install perl`
    - Fedora: `dnf install perl-interpreter`
-2. Install CPAN package manager:  
-   - e.g. `dnf install perl-App-cpanminus`
-3. Install the tools:  
+2. Install CPAN package manager:
+   - Debian: `apt-get install cpanminus`
+   - Fedora: `dnf install perl-App-cpanminus`
+3. Install the tools:
    ```
    cpanm App::MARC::Validator
    cpanm App::MARC::Validator::Report
    ```
-4. Check help:  
+4. Check help:
    ```
    marc-validator -h
    marc-validator-report -h
@@ -122,25 +123,25 @@ Example datasets:
 ## Repositories
 
 - [App::MARC::Validator](https://github.com/michal-josef-spacek/App-MARC-Validator)
-- [MARC::Validator](https://github.com/michal-josef-spacek/MARC-Validator)
+- [App::MARC::Validator::Report](https://github.com/michal-josef-spacek/App-MARC-Validator-Report)
+- [Business::UDC](https://github.com/michal-josef-spacek/Business-UDC)
+- [Data::MARC::Field008](https://github.com/michal-josef-spacek/Data-MARC-Field008)
+- [Data::MARC::Leader](https://github.com/michal-josef-spacek/Data-MARC-Leader)
+- [Data::MARC::Validator::Report](https://github.com/michal-josef-spacek/Data-MARC-Validator-Report)
+- [MARC::Field008](https://github.com/michal-josef-spacek/MARC-Field008)
 - [MARC::Leader](https://github.com/michal-josef-spacek/MARC-Leader)
 - [MARC::Leader::Utils](https://github.com/michal-josef-spacek/MARC-Leader-Utils)
-- [MARC::Field008](https://github.com/michal-josef-spacek/MARC-Field008)
-- [Data::MARC::Leader](https://github.com/michal-josef-spacek/Data-MARC-Leader)
-- [Data::MARC::Field008](https://github.com/michal-josef-spacek/Data-MARC-Field008)
+- [MARC::Validator](https://github.com/michal-josef-spacek/MARC-Validator)
+- [MARC::Validator::Filter](https://github.com/michal-josef-spacek/MARC-Validator-Filter)
 
 ***
 
 ## License and Credits
 
-© 2025 [Michal Josef Špaček](http://skim.cz) (<mailto:skim@cpan.org>)  
+© 2025-2026 [Michal Josef Špaček](http://skim.cz) (<mailto:michal.josef.spacek@gmail.com>)
 Licensed under the **BSD 2-Clause License**.
 
 Development of this software has been supported by the **long-term strategic development of the National Library of the Czech Republic as a research organization**,  
 funded by the **Ministry of Culture of the Czech Republic (DKRVO 2024–2028, Area 11: Linked Open Data)**.
 
 ***
-
-## Version
-
-**0.05**
