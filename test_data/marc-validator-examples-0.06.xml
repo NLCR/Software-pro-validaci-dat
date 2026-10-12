@@ -1925,6 +1925,145 @@
   </datafield>
 </record>
 <record>
+  <leader>01681nas a2200433 i 4500</leader>
+  <controlfield tag="001">cps20010990644</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20230403120827.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">010226d20002011xr  x pe      0    0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000990644</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">OLA001</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xr---</subfield>
+    <subfield code="b">e-xr-pg</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">796</subfield>
+    <subfield code="x">Sport. Hry. Tělesná cvičení</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">20</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">050</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">351,7</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">796/799</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Sportovec Ministerstva vnitra :</subfield>
+    <subfield code="b">občasník : aktuality, rozhovory, výsledky, informace</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Ministerstvo vnitra ČR - Odbor sportu,</subfield>
+    <subfield code="c">2000-2011</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="3">[2009?]-2011</subfield>
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Centrum sportu Ministerstva vnitra České republiky</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 sv. ;</subfield>
+    <subfield code="c">29 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Vychází nepravidelně</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">bez média</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">svazek</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Roč. 1, č. 1 (2000)-roč. 12, č. 2 (2011)</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">Popsáno podle: Č. 4 (listopad 2000)</subfield>
+    <subfield code="5">CZ-PrNK</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="7">
+    <subfield code="a">Unie tělovýchovných organizací Policie České republiky</subfield>
+    <subfield code="7">kn20050802014</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="7">
+    <subfield code="a">Česko.</subfield>
+    <subfield code="b">Ministerstvo vnitra.</subfield>
+    <subfield code="b">Odbor sportu</subfield>
+    <subfield code="7">kn20050802015</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">sport</subfield>
+    <subfield code="7">ph116248</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">policie</subfield>
+    <subfield code="7">ph124228</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">specializované časopisy</subfield>
+    <subfield code="7">fd133565</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="772" ind1="0" ind2=" ">
+    <subfield code="t">Policista</subfield>
+    <subfield code="x">1211-7943</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="r">2000</subfield>
+    <subfield code="t">p</subfield>
+  </datafield>
+  <datafield tag="968" ind1=" " ind2=" ">
+    <subfield code="a">14a</subfield>
+  </datafield>
+  <datafield tag="969" ind1=" " ind2=" ">
+    <subfield code="a">b6</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="n">Ministerstvo vnitra ČR - Odbor sportu</subfield>
+    <subfield code="a">Za císařským mlýnem 1063, 170 06 Praha 7</subfield>
+  </datafield>
+  <datafield tag="979" ind1=" " ind2=" ">
+    <subfield code="n">Sportovec ministerstva vnitra - redakce</subfield>
+    <subfield code="i">David</subfield>
+    <subfield code="j">Oldřich</subfield>
+    <subfield code="e">02/61 43 62 62</subfield>
+    <subfield code="x">sportmv@mvcr.cz</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000990644</subfield>
+  </datafield>
+</record>
+<record>
   <leader>00643nas a2200229   4500</leader>
   <controlfield tag="001">cps20041315704</controlfield>
   <controlfield tag="003">CZ PrNK</controlfield>
@@ -2028,6 +2167,112 @@
   </datafield>
   <datafield tag="998" ind1=" " ind2=" ">
     <subfield code="a">002636139</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01180nas a2200361 i 4500</leader>
+  <controlfield tag="001">cps20193165782</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20230809090643.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">191219c20169999xr fr p       0   b0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb003165782</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1135578632</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">BOA001</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xr---</subfield>
+    <subfield code="b">e-xr-mo</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">352/354</subfield>
+    <subfield code="x">Stupně místní, oblastní a ústřední správy</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">15</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">Kružberk (Česko)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(051)-027.541</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kružberský občasník</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Kružberk :</subfield>
+    <subfield code="b">Obec Kružberk,</subfield>
+    <subfield code="c">[2016?]-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">30 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">2x ročně</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">bez média</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">svazek</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">Popsáno podle: 26. listopadu 2019</subfield>
+    <subfield code="5">CZ-PrNK</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="7">
+    <subfield code="a">Kružberk (Česko)</subfield>
+    <subfield code="7">ge257910</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">místní časopisy</subfield>
+    <subfield code="7">fd132900</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="3">Online verze</subfield>
+    <subfield code="u">http://www.kruzberk.cz/kruzbersky-obcasnik/</subfield>
+    <subfield code="4">N</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="r">2019-</subfield>
+  </datafield>
+  <datafield tag="968" ind1=" " ind2=" ">
+    <subfield code="a">5d</subfield>
+  </datafield>
+  <datafield tag="969" ind1=" " ind2=" ">
+    <subfield code="a">i</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="n">Obecní úřad Kružberk</subfield>
+    <subfield code="a">Kružberk 84, 747 86 Kružberk</subfield>
+    <subfield code="e">556 311 029</subfield>
+    <subfield code="x">obec@kruzberk.cz</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">003165782</subfield>
   </datafield>
 </record>
 <record>
@@ -2596,6 +2841,161 @@
   </datafield>
 </record>
 <record>
+  <leader>01919nam a2200505 a 4500</leader>
+  <controlfield tag="001">nkc20081791567</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20170626130323.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">080214s2007    xr a   f      001 0dcze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb001791567</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">978-80-200-1568-6</subfield>
+    <subfield code="q">(váz.)</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)228780796</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OLA001</subfield>
+    <subfield code="b">cze</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">cze</subfield>
+    <subfield code="h">fre</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">81</subfield>
+    <subfield code="x">Lingvistika. Jazyky</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">81’1</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(042.3)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(0.072)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(082)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Saussure, Ferdinand de,</subfield>
+    <subfield code="d">1857-1913</subfield>
+    <subfield code="7">jn19990007369</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kurs obecné lingvistiky /</subfield>
+    <subfield code="c">Ferdinand de Saussure ; komentáře napsal Tullio de Mauro ; přeložil, doplnil a poznámkami opatřil František Čermák</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Vyd. 3., upr., V nakl. Academia 2.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Academia,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">487 s. :</subfield>
+    <subfield code="b">il. ;</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Europa ;</subfield>
+    <subfield code="v">sv. 12</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Přeloženo z francouzštiny</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"Vydal Charles Bally a Albert Sechehaye za spolupráce Alberta Riedlingera"--Tit. s.</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Obsahuje bibliografii, bibliografické odkazy a rejstřík</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">lingvistika</subfield>
+    <subfield code="7">ph115153</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">linguistics</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">přednášky</subfield>
+    <subfield code="7">fd133199</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">komentovaná vydání</subfield>
+    <subfield code="7">fd132577</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">sborníky</subfield>
+    <subfield code="7">fd163935</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">lectures</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">annotated editions</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">miscellanea</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">De Mauro, Tullio,</subfield>
+    <subfield code="d">1932-2017</subfield>
+    <subfield code="7">jn19981000605</subfield>
+    <subfield code="4">cwt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Čermák, František,</subfield>
+    <subfield code="d">1940-</subfield>
+    <subfield code="7">jk01021294</subfield>
+    <subfield code="4">trl</subfield>
+    <subfield code="4">wfw</subfield>
+  </datafield>
+  <datafield tag="765" ind1="0" ind2=" ">
+    <subfield code="t">Cours de linguistique générale</subfield>
+    <subfield code="9">Česky</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Europa (Academia)</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">https://ndk.cz/uuid/uuid:663b3d20-3727-11e7-8e0f-005056827e52</subfield>
+    <subfield code="y">Digitalizovaný dokument</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="b">9788020015686</subfield>
+    <subfield code="f">3., upr. vyd., 2. vyd. v nakl. Academia</subfield>
+    <subfield code="o">20080521</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">001791567</subfield>
+  </datafield>
+</record>
+<record>
   <leader>01635nem a2200457 a 4500</leader>
   <controlfield tag="001">nkc20081836369</controlfield>
   <controlfield tag="003">CZ PrNK</controlfield>
@@ -2852,6 +3252,518 @@
   </datafield>
   <datafield tag="998" ind1=" " ind2=" ">
     <subfield code="a">002172297</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>02115cam a2200577 i 4500</leader>
+  <controlfield tag="001">nkc20152703924</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20180109111028.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">150421s2015    xr a   b      000 0 cze d</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb002703924</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">978-80-7311-150-2</subfield>
+    <subfield code="q">(brožováno)</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)920662406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KLG001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">ABA001</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">811.162.3</subfield>
+    <subfield code="x">Čeština</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">0/9-053.2</subfield>
+    <subfield code="x">Literatura pro děti a mládež (naučná)</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">26</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">811.162.3</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">81`35</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(076.3)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(076.1)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(0.053.2)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Topil, Zdeněk,</subfield>
+    <subfield code="d">1959-</subfield>
+    <subfield code="7">jx20040805047</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Pravopisné křižovatky :</subfield>
+    <subfield code="b">vyjmenovaná slova /</subfield>
+    <subfield code="c">Zdeněk Topil - Kristýna Tučková - Dagmar Chroboková</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Pravopisné křižovatky - vyjmenovaná slova</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Vyjmenovaná slova</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. vydání</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Havlíčkův Brod :</subfield>
+    <subfield code="b">Tobiáš,</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">47 stran :</subfield>
+    <subfield code="b">barevné ilustrace ;</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">bez média</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">svazek</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Zatracená čeština</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">čeština</subfield>
+    <subfield code="7">ph135292</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">vyjmenovaná slova</subfield>
+    <subfield code="7">ph135253</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">pravopis</subfield>
+    <subfield code="7">ph124564</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">Czech language</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">enumerate words</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">orthography and spelling</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">diktáty a cvičení</subfield>
+    <subfield code="7">fd186920</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">pracovní sešity</subfield>
+    <subfield code="7">fd133116</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">publikace pro děti</subfield>
+    <subfield code="7">fd133156</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">language exercises and dictations</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">activity books</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">children's literature</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Tučková, Kristýna,</subfield>
+    <subfield code="d">1978-</subfield>
+    <subfield code="7">jo2015880928</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Chroboková, Dagmar</subfield>
+    <subfield code="7">jn20010310282</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Zatracená čeština</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">https://ndk.cz/uuid/uuid:15517c70-7927-11ec-b93a-5ef3fc9bb22f</subfield>
+    <subfield code="y">Digitalizovaný dokument</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="b">9788073111502</subfield>
+    <subfield code="f">1. vydání</subfield>
+    <subfield code="o">20150811</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">002703924</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>     nam a22      i 4500</leader>
+  <controlfield tag="001">nkc20162795077</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20250102104023.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">160429s2016    xr a   e      000 0 fre</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb002795077</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">978-80-906112-5-2</subfield>
+    <subfield code="q">(František Havlůj - běžíliška ;</subfield>
+    <subfield code="q">vázáno)</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">978-2-36345-059-3</subfield>
+    <subfield code="q">(HDiffusion ;</subfield>
+    <subfield code="q">vázáno)</subfield>
+    <subfield code="z">978-2-3634505-9-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)970629778</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BOA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">fre</subfield>
+    <subfield code="a">cze</subfield>
+    <subfield code="h">fre</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="a">xr</subfield>
+    <subfield code="a">fr</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">81</subfield>
+    <subfield code="x">Lingvistika. Jazyky</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">811.162.3</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">811.133.1</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">81´37-021.6</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(0.062)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gassin-Gradstein, Vincent</subfield>
+    <subfield code="7">xx0203260</subfield>
+    <subfield code="4">aut</subfield>
+    <subfield code="4">ill</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">18 vols/slov :</subfield>
+    <subfield code="b">letů/mots /</subfield>
+    <subfield code="c">Vincent Gassin-Gradstein, Veronika Doutlíková</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Osmnáct slov</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Osmnáct letů</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Dix-huit vols</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Dix-huit mots</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">18 letů/mots</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Vydání první</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Běžíliška ;</subfield>
+    <subfield code="a">Auxerre :</subfield>
+    <subfield code="b">HDiffusion,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">36 nečíslovaných stran :</subfield>
+    <subfield code="b">ilustrace ;</subfield>
+    <subfield code="c">18 x 21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">statický obraz</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">bez média</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">svazek</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Obálkový podnázev: palindromes franco-tchèques = francouzsko-české obrácenky</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Částečně český text, částečně souběžný český text</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">čeština</subfield>
+    <subfield code="7">ph135292</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">francouzština</subfield>
+    <subfield code="7">ph135297</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">palindromy</subfield>
+    <subfield code="7">ph894884</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">Czech language</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">French language</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">palindromes</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">populárně-naučné publikace</subfield>
+    <subfield code="7">fd131864</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">popular works</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Doutlíková, Veronika,</subfield>
+    <subfield code="d">1971-</subfield>
+    <subfield code="7">xx0106253</subfield>
+    <subfield code="4">aut</subfield>
+    <subfield code="4">ill</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">http://aleph.nkp.cz/F/?func=direct&amp;doc_number=002795077&amp;local_base=CNB</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01667nam a2200481 i 4500</leader>
+  <controlfield tag="001">nkc20162806488</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20191218153019.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">160623s2016    xr a   d      000 1 cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb002806488</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">978-80-7449-387-4</subfield>
+    <subfield code="q">(brožováno) :</subfield>
+    <subfield code="c">Kč 189,00</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)956489751</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BOA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">cze</subfield>
+    <subfield code="h">jpn</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">741.52</subfield>
+    <subfield code="x">Komiksy. Komiksové adaptace</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">21</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">821-93</subfield>
+    <subfield code="x">Literatura pro děti a mládež (beletrie)</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">26</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">741.52(0:82-32)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">741.52(0:82-321.3)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">821-93</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kishimoto, Masashi,</subfield>
+    <subfield code="d">1974-</subfield>
+    <subfield code="7">xx0137635</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Naruto.</subfield>
+    <subfield code="n">28. díl,</subfield>
+    <subfield code="p">Narutův návrat!! /</subfield>
+    <subfield code="c">Masaši Kišimoto ; překlad: Jan Horgoš</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Narutův návrat!!</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Praha] :</subfield>
+    <subfield code="b">Crew s.r.o.,</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">189 stran :</subfield>
+    <subfield code="b">ilustrace ;</subfield>
+    <subfield code="c">18 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">statický obraz</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">bez média</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">svazek</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Světové komiksy česky</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Přeloženo z japonštiny</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Tištěno zprava doleva ve stylu manga</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">manga</subfield>
+    <subfield code="7">fd1057492</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">akční a dobrodružné komiksy</subfield>
+    <subfield code="7">fd1057471</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">publikace pro mládež</subfield>
+    <subfield code="7">fd133157</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">manga</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">action and adventure comics</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">juvenile literature</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Horgoš, Jan</subfield>
+    <subfield code="7">xx0098660</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Světové komiksy česky</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="f">[1. vydání]</subfield>
+    <subfield code="o">20160708</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">002806488</subfield>
   </datafield>
 </record>
 <record>
@@ -4168,6 +5080,166 @@
   </datafield>
   <datafield tag="998" ind1=" " ind2=" ">
     <subfield code="a">001696044</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01843nai a2200517 i 4500</leader>
+  <controlfield tag="001">web20172880415</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20250617181720.0</controlfield>
+  <controlfield tag="006">m     o  d        </controlfield>
+  <controlfield tag="007">cr cn </controlfield>
+  <controlfield tag="008">170214c20089999xr  x w o     0   b2cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb002880415</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">81</subfield>
+    <subfield code="x">Lingvistika. Jazyky</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="9">
+    <subfield code="a">410</subfield>
+    <subfield code="x">Linguistics</subfield>
+    <subfield code="2">Conspectus</subfield>
+    <subfield code="9">11</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">81&amp;apos;374</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">81&amp;apos;276</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">81&amp;apos;276.45</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">811.162.3</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(0.034.2)004.738.12</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Čeština 2.0 :</subfield>
+    <subfield code="b">Slovník, který tvoříte vy</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Slovník, který tvoříte vy</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Martin Kavka,</subfield>
+    <subfield code="c">2008-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 online zdroj</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Aktualizováno průběžně</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">počítač</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">online zdroj</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Slovník obsahuje výklad nových, regionálních či jinak zajímavých slov. Do slovníku přispívají uživatelé, široká veřejnost.</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">Název z titulní obrazovky (náhled z 14.02.2017)</subfield>
+    <subfield code="5">CZ-PrNK</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">jazykové slovníky</subfield>
+    <subfield code="7">ph121326</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">slang</subfield>
+    <subfield code="7">ph138993</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">argot</subfield>
+    <subfield code="7">ph138994</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">čeština</subfield>
+    <subfield code="7">ph135292</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">language dictionaries</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">slang</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">argot</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">Czech language</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">webové dokumenty</subfield>
+    <subfield code="7">fd186892</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">web documents</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Kavka, Martin,</subfield>
+    <subfield code="d">1977-</subfield>
+    <subfield code="7">xx0228756</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://cestina20.cz</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="4">N</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://wayback.webarchiv.cz/wayback/http://cestina20.cz</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="z">archivní verze stránek</subfield>
+    <subfield code="4">N</subfield>
+  </datafield>
+  <datafield tag="929" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="a">cop.</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">002880415</subfield>
   </datafield>
 </record>
 </collection>
