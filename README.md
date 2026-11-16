@@ -130,9 +130,11 @@ Example datasets:
 - [Data::MARC::Validator::Report](https://github.com/michal-josef-spacek/Data-MARC-Validator-Report)
 - [MARC::Field008](https://github.com/michal-josef-spacek/MARC-Field008)
 - [MARC::Leader](https://github.com/michal-josef-spacek/MARC-Leader)
+- [MARC::Leader::L10N](https://github.com/michal-josef-spacek/MARC-Leader-L10N)
 - [MARC::Leader::Utils](https://github.com/michal-josef-spacek/MARC-Leader-Utils)
 - [MARC::Validator](https://github.com/michal-josef-spacek/MARC-Validator)
 - [MARC::Validator::Filter](https://github.com/michal-josef-spacek/MARC-Validator-Filter)
+- [MARC::Validator::Plugin::NKC](https://github.com/michal-josef-spacek/MARC-Validator-Plugin-NKC)
 
 ***
 
